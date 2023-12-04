@@ -40,6 +40,7 @@ D. It refers to a well-structured system with clearly defined modules.
 
 
 (4)
+
 The "Inner-Platform Effect" anti-pattern occurs when:
 
 A. The software imitates the features of the platform it's running on, adding unnecessary complexity.
